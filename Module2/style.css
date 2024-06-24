@@ -27,20 +27,21 @@ h1 {
   margin: 3%;
   padding: 15px 2% 2% 2%;
   background-color: #AAAAAA;
-  border: 5px solid black;
+  border: 1px solid black;
 }
 
 .content-name {
+  font-size: 20px;
   text-align: center;
-  border: 4px solid black;
+  border: 1px solid black;
   width: 100px;
-  height: 40px;
+  height: 35px;
   padding: 5px;
   font-weight: bold;
   background-color: #EBC4C4;
   position: absolute;
   top: -20px;
-  right: -5px; 
+  right: -1px; 
 }
 
 .content {
