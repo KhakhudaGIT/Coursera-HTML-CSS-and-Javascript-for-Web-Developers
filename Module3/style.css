@@ -91,3 +91,7 @@ li {
     font-weight: bold;
     color: rgb(150, 255, 150, 0.9);
 }
+
+.to-top {
+    color: rgba(130, 0, 130, 1.0);
+}
